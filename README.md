@@ -17,9 +17,9 @@ This project lets you control Spotify using **hand gestures** via a webcam, buil
 - **OpenCV** – for real-time video processing
 - **MediaPipe** – for hand tracking and landmark detection
 
-🤟 Sample Gestures
-    Gesture	           Action
-👎 Thumb Down          Pause
-👍 Thumb Up            Play
-✌️ Peace	           Next Track
-🖐️ Open Hand	     Previous Track
+ Sample Gestures
+
+👎 Thumb Down = Pause
+👍 Thumb Up = Play
+✌️ Peace = Next Track
+🖐️ Open Hand = Previous Track
